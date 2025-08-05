@@ -1,6 +1,6 @@
 import React, { useContext } from 'react'
 import { ShopContext } from '../context/ShopContext'
-import Title from '../../../../forever-full-stack/frontend/src/components/Title'
+import Title from '../../../../ECOMMERCE/frontend/src/components/Title'
 
 const Orders = () => {
 
