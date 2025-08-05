@@ -1,7 +1,6 @@
 import React, { useContext } from 'react'
 import { ShopContext } from '../context/ShopContext'
-import Title from '../../../../ECOMMERCE/frontend/src/components/Title'
-
+import Title from '../components/Title';
 const Orders = () => {
 
   const {products,currency} = useContext(ShopContext)
